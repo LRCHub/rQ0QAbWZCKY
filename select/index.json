@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Shuffle",
+  "base_artist": "奥井雅美",
+  "createdAt": "2025-12-01T22:28:30.707700Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shuffle",
+      "artist": "Laci Kaye Booth",
+      "has_synced": true,
+      "path": "select/01_Shuffle_Laci_Kaye_Booth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shuffle",
+      "artist": "Laci Kaye Booth",
+      "has_synced": false,
+      "path": "select/02_Shuffle_Laci_Kaye_Booth.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Futsal Shuffle 2020",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/03_Futsal_Shuffle_2020_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sugar Shuffle",
+      "artist": "Lynsey de Paul",
+      "has_synced": false,
+      "path": "select/04_Sugar_Shuffle_Lynsey_de_Paul.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "T-Bone Shuffle (feat. Joe Louis Walker)",
+      "artist": "B.B. King feat. Joe Louis Walker",
+      "has_synced": false,
+      "path": "select/05_T-Bone_Shuffle_(feat._Joe_Louis_Walker)_B.B._King_feat._Joe_Louis_Walker.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "T-Bone Shuffle",
+      "artist": "B.B. King feat. Joe Louis Walker",
+      "has_synced": false,
+      "path": "select/06_T-Bone_Shuffle_B.B._King_feat._Joe_Louis_Walker.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Binary Shuffle",
+      "artist": "Binary Star",
+      "has_synced": false,
+      "path": "select/07_Binary_Shuffle_Binary_Star.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Binary Shuffle (Intro)",
+      "artist": "Binary Star",
+      "has_synced": false,
+      "path": "select/08_Binary_Shuffle_(Intro)_Binary_Star.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wasting My Young Years (The Aston Shuffle Remix)",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/09_Wasting_My_Young_Years_(The_Aston_Shuffle_Remix)_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wasting My Young Years [The Aston Shuffle remix]",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/10_Wasting_My_Young_Years_[The_Aston_Shuffle_remix]_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shuffle Your Feet",
+      "artist": "Black Rebel Motorcycle Club",
+      "has_synced": true,
+      "path": "select/11_Shuffle_Your_Feet_Black_Rebel_Motorcycle_Club.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shuffle A Dream",
+      "artist": "Little Dragon",
+      "has_synced": false,
+      "path": "select/12_Shuffle_A_Dream_Little_Dragon.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Seems Fine Shuffle",
+      "artist": "The Concretes",
+      "has_synced": false,
+      "path": "select/13_Seems_Fine_Shuffle_The_Concretes.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "18th Street Shuffle",
+      "artist": "Darker My Love",
+      "has_synced": false,
+      "path": "select/14_18th_Street_Shuffle_Darker_My_Love.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cupid Shuffle (JTB Remix)",
+      "artist": "Cupid",
+      "has_synced": false,
+      "path": "select/15_Cupid_Shuffle_(JTB_Remix)_Cupid.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lido Shuffle",
+      "artist": "Boz Scaggs",
+      "has_synced": true,
+      "path": "select/16_Lido_Shuffle_Boz_Scaggs.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shuffle",
+      "artist": "奥井 雅美",
+      "has_synced": false,
+      "path": "select/pl_01_Shuffle_奥井_雅美.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Shuffle",
+      "artist": "奥井 雅美",
+      "has_synced": false,
+      "path": "select/pl_02_Shuffle_奥井_雅美.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "shuffle",
+      "artist": "奥井 雅美",
+      "has_synced": false,
+      "path": "select/pl_03_shuffle_奥井_雅美.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "SHUFFLE",
+      "artist": "奥井 雅美",
+      "has_synced": false,
+      "path": "select/pl_04_SHUFFLE_奥井_雅美.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Shuffle",
+      "artist": "奥井 雅美",
+      "has_synced": false,
+      "path": "select/pl_05_Shuffle_奥井_雅美.txt"
+    }
+  ]
+}
